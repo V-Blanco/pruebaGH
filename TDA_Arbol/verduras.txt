@@ -1,0 +1,12 @@
+100|pera|33
+50|manzana|401
+200|naranja|99
+75|frutilla|233
+150|kiwi|67
+300|limon|46
+175|palta|30
+400|cebolla|122
+160|papa|89
+180|banana|54
+350|aji|24
+450|uva|112

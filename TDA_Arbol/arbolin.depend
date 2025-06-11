@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1728949931 source:c:\users\vicut\documents\unlam\programacion\algoritmos y estructuras de datos\arbolin\main.c
+	"arbol.h"
+
+1729647563 c:\users\vicut\documents\unlam\programacion\algoritmos y estructuras de datos\arbolin\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728947154 source:c:\users\vicut\documents\unlam\programacion\algoritmos y estructuras de datos\arbolin\arbol.c
+	"arbol.h"
+
+1743536596 source:c:\users\santi\onedrive\documentos\vicky))\comparqacion\algoritmos y estructuras de datos\algoritmos y estructuras de datos\arbolin\main.c
+	"arbol.h"
+
+1743536662 c:\users\santi\onedrive\documentos\vicky))\comparqacion\algoritmos y estructuras de datos\algoritmos y estructuras de datos\arbolin\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1743536616 source:c:\users\santi\onedrive\documentos\vicky))\comparqacion\algoritmos y estructuras de datos\algoritmos y estructuras de datos\arbolin\arbol.c
+	"arbol.h"
+
